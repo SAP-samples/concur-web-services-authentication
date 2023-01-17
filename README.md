@@ -1,4 +1,4 @@
-# SAP Concur Web Services - Authentication API Sample
+# SAP Concur Web Services - Authentication
 
 ## Description
 This collection provides the basic example of Web Service authentication that is most commonly used by SAP Concur customers (versus partners).  There are two files included in this repository:
