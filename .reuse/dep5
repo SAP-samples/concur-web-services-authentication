@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: concur-web-services-authentication
-Upstream-Contact: tim.chapman@sap.com
+Upstream-Contact: <Tim Chapman tim.chapman@sap.com>
 Source: https://github.com/sap-samples/concur-web-services-authentication
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  SAP or third-party products or services developed outside of this project
@@ -24,10 +24,6 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  you any rights to use or access any SAP External Product, or provide any third
  parties the right to use of access any SAP External Product, through API Calls.
 
-Files: Concur Default Env.postman_environment.json
-Copyright:  2023 SAP SE or an SAP affiliate company and concur-web-services-authentication contributors
-License: Apache-2.0
-
-Files: Authentication.postman_collection.json
+Files: *
 Copyright:  2023 SAP SE or an SAP affiliate company and concur-web-services-authentication contributors
 License: Apache-2.0
