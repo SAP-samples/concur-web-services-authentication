@@ -8,6 +8,8 @@ This collection provides the basic example of Web Service authentication that is
 1) Concur Default Env.postman_environment.json - this environment contains the necessary variables needed in the Authentication JSON.  This allows for multiple applications to use/reuse the Authentication collection
 2) Authentication.postman_collection.json - this collection demonstrates the authentication APIs
 
+For an understanding on how to use this repository, read the following [blog post](https://blogs.sap.com/2023/01/23/introduction-to-web-services-for-concur-expense-authentication/)
+
 ## Requirements
 In order to use this repository you will need
 1) The Web Service Administration role within SAP Concur (to be able to create SAP Concur applications)
